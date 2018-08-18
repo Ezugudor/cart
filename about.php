@@ -29,7 +29,7 @@ session_start();
     <!--////////////   Header and Navbar  START    /////////////////-->
     <!--//////////////////////////////////////////////////-->
     
-             <?php  include "include/global/header.php"; ?>
+             <?php  include "include/global/header.php"; ss?>
     
     <!--//////////////////////////////////////////////////-->
     <!--////////////    Navbar  END    ///////////////////-->
